@@ -54,7 +54,7 @@
   "prettier": "@sanity/prettier-config",
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "@actions/github": "^6.0.0",
+    "@actions/github": "^8.0.0",
     "@sanity/pkg-utils": "^6.12.2",
     "yaml": "^2.6.1"
   },
